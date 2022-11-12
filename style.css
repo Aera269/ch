@@ -1,0 +1,17 @@
+#log-in-button{
+   background-color: rgb(243, 35, 98);
+}
+input{
+   border-radius: 25%;
+   background-color: whitesmoke;
+}
+#title{
+   font-weight: 600;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#image{
+   float: left;
+}
+#tom{
+   float: right;
+}
